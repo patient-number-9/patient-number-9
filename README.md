@@ -1,7 +1,4 @@
 about me
 - 👋 Hi, I’m @patient-number-9
-- 👀 i'm
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👀 i'm interested in learning new languages
+- 🌱 I'm learning to program
